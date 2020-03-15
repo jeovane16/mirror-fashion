@@ -1,2 +1,2 @@
 # mirror-fashion
-https://gist.github.com/b33b9c0d52e6c884301ed231eebefc7c
+Projeto de desenvolvimento web seguindo a apostila da caelum "APOSTILA DESENVOLVIMENTO WEB COM HTML, CSS E JAVASCRIPT" 
