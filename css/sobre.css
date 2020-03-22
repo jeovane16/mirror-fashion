@@ -21,7 +21,18 @@
     margin-bottom: 10px;
 }
 
-figure {
+#conheca h2{
+    border-bottom: 2px solid black;
+    margin-bottom: 10px;
+}
+
+#conheca iframe {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+iframe {
     background-color: #f2eded;
     border: 1px solid #ccc;
     text-align: center;
